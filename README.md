@@ -15,8 +15,6 @@ Each problem's solution will be implemented in Java and organized by topic.
       - [Month 2: Intermediate Data Structures & Recursion](https://www.google.com/search?q=%23month-2-intermediate-data-structures--recursion)
       - [Month 3: Advanced Data Structures & Graph Algorithms](https://www.google.com/search?q=%23month-3-advanced-data-structures--graph-algorithms)
       - [Month 4: Dynamic Programming & Advanced Topics](https://www.google.com/search?q=%23month-4-dynamic-programming--advanced-topics)
-  - [How to Use This Repository](https://www.google.com/search?q=%23how-to-use-this-repository)
-  - [Contributing](https://www.google.com/search?q=%23contributing)
 
 -----
 
